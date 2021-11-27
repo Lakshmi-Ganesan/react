@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-export class Controlform extends Component {
+ class Controlform extends Component {
     constructor(props) {
         super(props)
     
